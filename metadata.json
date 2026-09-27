@@ -1,0 +1,6 @@
+{
+  "name": "Blood Bank Management System",
+  "description": "Comprehensive healthcare Blood Bank Management System with real-time donor tracking, emergency blood requests, inventory allocation, and administrative analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
